@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	font: times; 
+}
+
+body {
+	text-align: center;
+	background-color: #5CD6FF;
+	/*height: 50%;
+	width: 50%;*/
+}
+
+#bodyCentered{
+	text-align: center;
+	margin: auto;
+	width: 75%;
+	height: 15em;
+	padding: 4em;
+	background-color: #D2691E;
+
+}
+
+nav, #footer{
+	padding: 2.5em;
+
+}
+
+#CspSyndicationScript{
+	align: center;
+}
+
+
+}
